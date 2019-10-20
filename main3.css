@@ -1,0 +1,31 @@
+/*this page is for css*/
+body
+{
+	background-color: #89cff0;
+	text-align: center;
+}
+h1
+{
+	font-weight: bold; 
+}
+.boxed 
+{
+	border: 5px solid #808080 ;  
+}
+p.one
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+p
+{
+	font-size: 20px;
+}
+li
+{
+	font-size: 20px;
+}
+img
+{
+	padding: 10px;
+}

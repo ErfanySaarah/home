@@ -1,0 +1,29 @@
+/*this page is for css*/
+body 
+{
+	background-color: #89cff0;
+    font-family: "Times New Roman", sans serif, Century, "Arial Narrow";
+    text-align: center;
+}
+
+h1, h2, h3
+{
+	color: #FF1493;
+	font-family: "Times New Roman", sans serif, Century, "Arial Narrow";
+	font-size: 30px
+}
+
+img
+{
+	padding: 10px;
+}
+p
+{
+	font-size: 20px
+	font-family: "Times New Roman", Times, serif;
+}	
+li
+{
+	font-size: 20px
+}
+

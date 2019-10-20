@@ -1,0 +1,26 @@
+/*this page is for css*/
+.boxed 
+{
+	border: 5px solid #8B008B;  
+}
+p
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 25px;
+}
+body
+{
+	background-color: #89cff0;
+	text-align: center;
+
+}
+li
+{
+	font-size: 20px;
+}
+img
+{
+	border-radius: 8px;
+	padding: 25px;
+}
+
